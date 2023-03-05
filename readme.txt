@@ -1,0 +1,1 @@
+this game is about guessing each others ships locations, and by using iframe elements and links, to get the action of the game.
